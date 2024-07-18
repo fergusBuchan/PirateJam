@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\PirateJam\\PirateJam\\PirateJam\\Source\\PirateJam\\PirateJam.Build.cs",
+		"D:\\Unreal Projects\\PirateJam\\PirateJam\\PirateJam\\Source\\PirateJam.Target.cs",
+		"D:\\Unreal Projects\\PirateJam\\PirateJam\\PirateJam\\Source\\PirateJamEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}
