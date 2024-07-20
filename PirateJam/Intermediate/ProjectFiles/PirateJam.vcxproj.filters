@@ -11,6 +11,7 @@
     <None Include="..\..\Source\PirateJamEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -36,6 +37,30 @@
       <Filter>Source\PirateJam</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\PirateJam\PirateJam.h">
+      <Filter>Source\PirateJam</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PirateJam\PlayerHUD.cpp">
+      <Filter>Source\PirateJam</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PirateJam\PlayerHUD.h">
+      <Filter>Source\PirateJam</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PirateJam\PotionController.cpp">
+      <Filter>Source\PirateJam</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PirateJam\PotionController.h">
+      <Filter>Source\PirateJam</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PirateJam\PotionSeller.cpp">
+      <Filter>Source\PirateJam</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PirateJam\PotionSeller.h">
+      <Filter>Source\PirateJam</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PirateJam\SellerController.cpp">
+      <Filter>Source\PirateJam</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PirateJam\SellerController.h">
       <Filter>Source\PirateJam</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PirateJam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\PirateJam\PirateJam\PirateJam\Intermediate\Build\Win64\x64\PirateJamEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal Projects\PirateJam\PirateJam\PirateJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\PirateJam\PirateJam.init.gen.cpp.obj"
+"D:\Unreal Projects\PirateJam\PirateJam\PirateJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\PirateJam\PotionController.gen.cpp.obj"
+"D:\Unreal Projects\PirateJam\PirateJam\PirateJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\PirateJam\PotionSeller.gen.cpp.obj"
+"D:\Unreal Projects\PirateJam\PirateJam\PirateJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\PirateJam\SellerController.gen.cpp.obj"
+"D:\Unreal Projects\PirateJam\PirateJam\PirateJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\PirateJam\PirateJam.cpp.obj"
+"D:\Unreal Projects\PirateJam\PirateJam\PirateJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\PirateJam\PotionController.cpp.obj"
+"D:\Unreal Projects\PirateJam\PirateJam\PirateJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\PirateJam\PotionSeller.cpp.obj"
+"D:\Unreal Projects\PirateJam\PirateJam\PirateJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\PirateJam\SellerController.cpp.obj"
+"D:\Unreal Projects\PirateJam\PirateJam\PirateJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\PirateJam\Default.rc2.res"
+/OUT:"D:\Unreal Projects\PirateJam\PirateJam\PirateJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\PirateJam\UnrealEditor-PirateJam.lib"

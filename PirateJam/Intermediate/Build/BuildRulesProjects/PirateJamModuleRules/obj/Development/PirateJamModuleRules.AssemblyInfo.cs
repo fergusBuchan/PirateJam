@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PirateJamModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70b49a6ba7819083d7209f032dc46dbad78f9e13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d700452975a2d8dc59b56ea4fcaf237a4ef373b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PirateJamModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PirateJamModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

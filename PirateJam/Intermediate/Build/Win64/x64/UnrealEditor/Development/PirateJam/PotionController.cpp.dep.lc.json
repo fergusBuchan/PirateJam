@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\piratejam\\piratejam\\piratejam\\source\\piratejam\\potioncontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\piratejam\\piratejam\\piratejam\\intermediate\\build\\win64\\x64\\piratejameditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\piratejam\\piratejam\\piratejam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\piratejam\\definitions.piratejam.h",
+            "d:\\unreal projects\\piratejam\\piratejam\\piratejam\\source\\piratejam\\potioncontroller.h",
+            "d:\\unreal projects\\piratejam\\piratejam\\piratejam\\intermediate\\build\\win64\\unrealeditor\\inc\\piratejam\\uht\\potioncontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
